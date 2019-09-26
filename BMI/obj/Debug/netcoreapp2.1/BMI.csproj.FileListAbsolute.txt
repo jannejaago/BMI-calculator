@@ -1,0 +1,11 @@
+C:\Users\Kasutaja\Desktop\BMI\BMI\bin\Debug\netcoreapp2.1\BMI.deps.json
+C:\Users\Kasutaja\Desktop\BMI\BMI\bin\Debug\netcoreapp2.1\BMI.runtimeconfig.json
+C:\Users\Kasutaja\Desktop\BMI\BMI\bin\Debug\netcoreapp2.1\BMI.runtimeconfig.dev.json
+C:\Users\Kasutaja\Desktop\BMI\BMI\bin\Debug\netcoreapp2.1\BMI.dll
+C:\Users\Kasutaja\Desktop\BMI\BMI\bin\Debug\netcoreapp2.1\BMI.pdb
+C:\Users\Kasutaja\Desktop\BMI\BMI\obj\Debug\netcoreapp2.1\BMI.csprojAssemblyReference.cache
+C:\Users\Kasutaja\Desktop\BMI\BMI\obj\Debug\netcoreapp2.1\BMI.csproj.CoreCompileInputs.cache
+C:\Users\Kasutaja\Desktop\BMI\BMI\obj\Debug\netcoreapp2.1\BMI.AssemblyInfoInputs.cache
+C:\Users\Kasutaja\Desktop\BMI\BMI\obj\Debug\netcoreapp2.1\BMI.AssemblyInfo.cs
+C:\Users\Kasutaja\Desktop\BMI\BMI\obj\Debug\netcoreapp2.1\BMI.dll
+C:\Users\Kasutaja\Desktop\BMI\BMI\obj\Debug\netcoreapp2.1\BMI.pdb
